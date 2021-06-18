@@ -1,0 +1,14 @@
+{
+  "CONSUMER_KEY" : "<your consumer API Twitter key>",
+  "CONSUMER_SECRET": "<your secret consumer API Twitter key>",
+  "ACCESS_TOKEN": "<the access token of you twitter app>",
+  "ACCESS_TOKEN_SECRET": "<the secret access token of you twitter app>",
+  "DISCORD_TOKEN": "<your discord bot token>",
+  "CHANNEL_UN" : "<channel 1 id>",
+  "CHANNEL_DEUX" : "<channel 2 id>",
+  "CHANNEL_TROIS" : "<channel 3 id>",
+  "CHANNEL_QUATRE" :"<channel 4 id>",
+  "CHANNELLOG" : "<channel log id> -> optional",
+  "prefix": "#",
+  "author" : "Titoune#1870"
+}
