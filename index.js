@@ -10,7 +10,7 @@ Ce bot renvoie automatiquement les twitts des utilisateurs souhaités (voir le f
 const Twit = require('twit')
 const { Client, MessageEmbed } = require('discord.js');
 const client = new Client();
-const config = require('./config.json');
+const config = require('./config-example.json');
 const fs = require('fs');
 
 
