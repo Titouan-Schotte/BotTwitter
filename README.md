@@ -7,6 +7,7 @@ Pour faire fonctionner ce bot discord veuillez vous rendre dans le fichier `conf
 Par la suite remplacez les différentes information que contient ce fichier par vos informations confidentielles.
 
 
+
 **Démarrage**:
 
 Veuillez éxécuter les commandes suivantes : 
